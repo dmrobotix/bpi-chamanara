@@ -5,4 +5,6 @@ NOTE: You will need to update the directory locations for the csv files.
 
 NOTE: The repo is itentionally  missing a file called, "Geographic Distribution 2020-2021 All Countries Breakdown.csv" because CBECI has not given me permission to make these data publicly available.
 
+You will need pandas, plotly, and jupyter notebook to run these files.
+
 Questions? Please contact Margot via Twitter/X: @jyn_urso.
