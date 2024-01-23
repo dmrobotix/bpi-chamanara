@@ -4,3 +4,5 @@ This repository holds iPython and python files that generate all plots found in 
 NOTE: You will need to update the directory locations for the csv files.
 
 NOTE: The repo is itentionally  missing a file called, "Geographic Distribution 2020-2021 All Countries Breakdown.csv" because CBECI has not given me permission to make these data publicly available.
+
+Questions? Please contact Margot via Twitter/X: @jyn_urso.
